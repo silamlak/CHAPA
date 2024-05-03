@@ -1,0 +1,11 @@
+# Node.js and Express server
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+
+# Dependency directories
+package-lock.json
+yarn.lock
